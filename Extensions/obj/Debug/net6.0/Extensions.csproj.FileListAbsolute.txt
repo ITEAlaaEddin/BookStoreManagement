@@ -1,0 +1,12 @@
+C:\Users\Alaa Alaa Eddin\source\repos\BookStoreManagement\Extensions\bin\Debug\net6.0\Extensions.deps.json
+C:\Users\Alaa Alaa Eddin\source\repos\BookStoreManagement\Extensions\bin\Debug\net6.0\Extensions.dll
+C:\Users\Alaa Alaa Eddin\source\repos\BookStoreManagement\Extensions\bin\Debug\net6.0\Extensions.pdb
+C:\Users\Alaa Alaa Eddin\source\repos\BookStoreManagement\Extensions\obj\Debug\net6.0\Extensions.csproj.AssemblyReference.cache
+C:\Users\Alaa Alaa Eddin\source\repos\BookStoreManagement\Extensions\obj\Debug\net6.0\Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alaa Alaa Eddin\source\repos\BookStoreManagement\Extensions\obj\Debug\net6.0\Extensions.AssemblyInfoInputs.cache
+C:\Users\Alaa Alaa Eddin\source\repos\BookStoreManagement\Extensions\obj\Debug\net6.0\Extensions.AssemblyInfo.cs
+C:\Users\Alaa Alaa Eddin\source\repos\BookStoreManagement\Extensions\obj\Debug\net6.0\Extensions.csproj.CoreCompileInputs.cache
+C:\Users\Alaa Alaa Eddin\source\repos\BookStoreManagement\Extensions\obj\Debug\net6.0\Extensions.dll
+C:\Users\Alaa Alaa Eddin\source\repos\BookStoreManagement\Extensions\obj\Debug\net6.0\refint\Extensions.dll
+C:\Users\Alaa Alaa Eddin\source\repos\BookStoreManagement\Extensions\obj\Debug\net6.0\Extensions.pdb
+C:\Users\Alaa Alaa Eddin\source\repos\BookStoreManagement\Extensions\obj\Debug\net6.0\ref\Extensions.dll
