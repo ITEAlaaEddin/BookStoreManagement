@@ -15,8 +15,8 @@ namespace BookStoreMainApp
             var userServices = new UserServices();
             userServices.AddDefaultUseres();
 
-            var bookServices = new BookServices();
-            bookServices.AddDefaultBooks();
+            //var bookServices = new BookServices();
+            //bookServices.AddDefaultBooks();
 
 
             while (true)

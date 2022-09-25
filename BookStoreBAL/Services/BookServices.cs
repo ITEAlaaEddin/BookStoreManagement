@@ -34,7 +34,7 @@ namespace BookStoreBAL.Services
 
             Book book = bookRepository.GetBookById(id);
             var bookInfo = new List<Book>() { book };
-            return bookInfo.Select(b => new { b.Id, b.Name, b.AvailableCopies }).ToList<object>();
+            return bookInfo.Select(b => new { b.Id, b.Name, b.Price,b.AvailableCopies }).ToList<object>();
         }
         
 
